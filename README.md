@@ -17,8 +17,8 @@ differentiate between the M and B classes. While the sigmoid function can be use
 represent binary classification problems, it is not optimized for image data and may not
 perform well compared to CNNs.
 
-![alt text](image.png)
+![alt text](c1.png)
 
-![alt text](image.png)
+![alt text](c2.png)
 
-![alt text](image.png)
+![alt text](c3.png)
