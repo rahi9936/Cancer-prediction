@@ -16,3 +16,9 @@ input and outputs a single value between 0 and 1, which may not be sufficient to
 differentiate between the M and B classes. While the sigmoid function can be used to
 represent binary classification problems, it is not optimized for image data and may not
 perform well compared to CNNs.
+
+![alt text](image.png)
+
+![alt text](image.png)
+
+![alt text](image.png)
